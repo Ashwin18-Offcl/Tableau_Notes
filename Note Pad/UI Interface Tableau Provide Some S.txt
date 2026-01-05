@@ -68,13 +68,45 @@ Data is arrange in alphabetical order.
 
 Measures is number which is has perform the mathematical calculations.
 
-(All the dimentions are blue and all the measures are green)
+(All the dimensions are blue and all the measures are green)
 
-Data are descrite and data are continuous. 
+Data are discrete and data are continuous. 
 
 Discrete data: Countable values with no intermediate numbers.
 
 Continuous data: Measurable values that can take any value within a range.
+
+Whether is aggregable column i.e. called measure. Whether it is non aggregable column is dimension.
+
+Discrete field are always in coloured field
+
+Continuous means the data is unbroken without any interruption. 
+
+Values Are separate means it is discrete in nature. Whenever put any number or any continuous column which is green colour will be a proper access
+
+All the dimensions are discrete.
+
+Measures are generally continuous but it can be discrete as will.
+
+Measures means aggregations.  
+
+Discrete give you separate and distinct value.
+
+Discrete Dimensions
+Continuous Dimensions
+Discrete measures
+Discrete Dimension
+Continuous measure
+
+Which can never be converted into measures or numbers which cannot be aggregatable.
+it is forcefully converted.
+
+According to requirenment whenever to change.
+
+
+Totally based on requirements
+
+
 
 
 Apps
